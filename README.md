@@ -1,1 +1,1 @@
-# Blod-template
+# Blog-template
